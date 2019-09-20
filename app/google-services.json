@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920100437097",
+    "firebase_url": "https://hotelng-15b63.firebaseio.com",
+    "project_id": "hotelng-15b63",
+    "storage_bucket": "hotelng-15b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920100437097:android:ab2f5f155c2486fe8af6f8",
+        "android_client_info": {
+          "package_name": "me.gfred.hotelng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920100437097-ggj7qlg3b134ke2m76oejoqaevpi4qbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.gfred.hotelng",
+            "certificate_hash": "5cb81284f9c604c2fbb15b999725f622498d8244"
+          }
+        },
+        {
+          "client_id": "920100437097-fv6ul5669186cjq74l0id3eg8tn68g8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGQNkBPMwNgN-U9v2Jl9qC5-PyENSB00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920100437097-fv6ul5669186cjq74l0id3eg8tn68g8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HotelNG</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="background_image">background image</string>
+    <string name="logo">Logo</string>
+    <string name="hotel_ng">Hotel NG</string>
+    <string name="get_started_with_your_email">Get started with email</string>
+    <string name="dummu">Dummy</string>
+    <string name="logout">Logout</string>
+</resources>
